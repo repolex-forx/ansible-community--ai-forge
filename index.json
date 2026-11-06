@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "ai-forge",
+  "versions": [
+    {
+      "commit": "a0ef94bd3efbe72e1a4e9c40909bd1858fd6fd34",
+      "tag": "",
+      "parsed_at": "2026-11-06T19:27:30.747335+00:00"
+    }
+  ]
+}
